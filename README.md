@@ -4,6 +4,6 @@ A small Ping CLI application accepts hostname or IP address (IPV4 and IPV6) thro
 
 Ex for running on Linux: "sudo ./my-ping google.com 5" (TTL set for 5 seconds)
 
-To run:
+##To run:
 sudo go install my-ping
 sudo go build
