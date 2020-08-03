@@ -6,4 +6,5 @@ Ex for running on Linux: "sudo ./my-ping google.com 5" (TTL set for 5 seconds)
 
 ## To run:
 sudo go install my-ping
+
 sudo go build
